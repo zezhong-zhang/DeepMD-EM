@@ -50,7 +50,8 @@ dpgen2/_version.py
 *.yaml
 *.jpg
 *.gif
-*.lmp 
+*.lmp
+*.p
 
 tutorial/vasp.ipynb
 
