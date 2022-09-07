@@ -1,5 +1,3 @@
-<!-- Readme based on Best-README-Template, See:https://github.com/othneildrew/Best-README-Template -->
-
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -23,10 +21,10 @@
   <p align="center">
     Mulitislice electron scattering simulation with realistic phonon and deep potential
     <br />
-    <a href="https://github.com/zezhong-zhang/DeepMD-EM/docs"><strong>Explore the docs »</strong></a>
+    <a href="https://deepmd-em.readthedocs.io/en/latest/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/zezhong-zhang/DeepMD-EM/tutorial">View Demo</a>
+    <a href="https://github.com/zezhong-zhang/DeepMD-EM/tree/master/tutorial">View Demo</a>
     ·
     <a href="https://github.com/zezhong-zhang/DeepMD-EM/issues">Report Bug</a>
     ·
@@ -147,9 +145,9 @@ pip install -e DeepMD-EM
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To run the workflow, please check the [tutorials](https://github.com/zezhong-zhang/DeepMD-EM/tutorial) for the MD simulation, phonon calculation and the scattering simulation.
+To run the workflow, please check the [tutorials](https://github.com/zezhong-zhang/DeepMD-EM/tree/master/tutorial) for the MD simulation, phonon calculation and the scattering simulation.
 
-_The proper [Documentation](https://github.com/zezhong-zhang/DeepMD-EM/docs) is under construction_
+_The proper [Documentation](https://deepmd-em.readthedocs.io/en/latest/) is under construction_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -217,6 +215,7 @@ Project Link: [https://github.com/zezhong-zhang/DeepMD-EM](https://github.com/ze
 ## Acknowledgments
 
 * Thanks to Dr. Ivan Lobato, Prof. Sandra Van Aert and Prof. Dirk Lamoen for their support and suggestions.
+* Readme page based on [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
